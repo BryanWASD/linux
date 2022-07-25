@@ -1,0 +1,37 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family: 'Jost', sans-serif;
+	text-align: center;
+}
+
+.frm form{
+	border-radius: 100px;
+	padding:50px 20px;
+	text-align: center;
+	background-color: darkblue;
+	height: 250px;
+	width: 300px;
+	margin-left: 470px ;
+}
+
+h1{
+	text-align: center;
+}
+
+.frm input{
+	text-align:center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 10px;
+	margin-top:10px;
+	border-style: dashed;
+}
+
+.completo{
+	color: greenyellow;
+}
+
+.fallo{
+	color: red;
+}

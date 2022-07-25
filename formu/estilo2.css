@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+	align-content: center;
+	align-items: center;
+	margin: 0px;
+	padding: 0px;
+}
+table{
+	margin-left: 490px;
+	align-content: center;
+	align-items: center;
+	border-collapse: collapse;
+}
+td{
+	border: 2px solid black;
+}
+th{
+	border: 2px solid black;
+}
